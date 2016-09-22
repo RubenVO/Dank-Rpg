@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: c96e3ef53e0aa5f4da57acaac73eb75f
+timeCreated: 1467637522
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lucas_walk_0
+    21300002: lucas_walk_1
+    21300004: lucas_walk_2
+    21300006: lucas_walk_3
+    21300008: lucas_walk_4
+    21300010: lucas_walk_5
+    21300012: lucas_walk_6
+    21300014: lucas_walk_7
+    21300016: lucas_walk_8
+    21300018: lucas_walk_9
+    21300020: lucas_walk_10
+    21300022: lucas_walk_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lucas_walk_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 336
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22.5}
+        - {x: -17.5, y: -22.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 17.5, y: 22.5}
+    - name: lucas_walk_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 336
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 23}
+        - {x: -17.5, y: -22}
+        - {x: -15.5, y: -23}
+        - {x: 14.5, y: -23}
+        - {x: 17.5, y: -22}
+        - {x: 17.5, y: 23}
+    - name: lucas_walk_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 336
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22.5}
+        - {x: -17.5, y: -11.5}
+        - {x: -12.5, y: -22.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 17.5, y: 22.5}
+    - name: lucas_walk_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 23}
+        - {x: -16, y: 21}
+        - {x: -16, y: -21}
+        - {x: -14, y: -23}
+        - {x: 10, y: -23}
+        - {x: 16, y: -11}
+        - {x: 16, y: 23}
+    - name: lucas_walk_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 288
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 23}
+        - {x: -16, y: 22}
+        - {x: -16, y: -10}
+        - {x: -14, y: -23}
+        - {x: 13, y: -23}
+        - {x: 16, y: -8}
+        - {x: 16, y: 23}
+    - name: lucas_walk_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.5}
+        - {x: -16, y: -8.5}
+        - {x: -12, y: -22.5}
+        - {x: 10, y: -22.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 22.5}
+    - name: lucas_walk_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 240
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 23}
+        - {x: -16, y: -4}
+        - {x: -8, y: -23}
+        - {x: 16, y: -23}
+        - {x: 16, y: 18}
+        - {x: 12, y: 23}
+    - name: lucas_walk_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 240
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 23}
+        - {x: -15, y: 23}
+        - {x: -16, y: 21}
+        - {x: -16, y: -2}
+        - {x: -11, y: -23}
+        - {x: 14, y: -23}
+        - {x: 16, y: -10}
+        - {x: 16, y: 21}
+    - name: lucas_walk_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 240
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22.5}
+        - {x: -16, y: 21.5}
+        - {x: -16, y: -9.5}
+        - {x: -12, y: -22.5}
+        - {x: 13, y: -22.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: 22.5}
+    - name: lucas_walk_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 23}
+        - {x: -17.5, y: -21}
+        - {x: -13.5, y: -23}
+        - {x: 17.5, y: -23}
+        - {x: 17.5, y: 23}
+    - name: lucas_walk_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 192
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 23}
+        - {x: -17.5, y: -18}
+        - {x: -13.5, y: -23}
+        - {x: 13.5, y: -23}
+        - {x: 17.5, y: -22}
+        - {x: 17.5, y: 23}
+    - name: lucas_walk_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 192
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 22.5}
+        - {x: -17.5, y: 19.5}
+        - {x: -17.5, y: -18.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 17.5, y: 22.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

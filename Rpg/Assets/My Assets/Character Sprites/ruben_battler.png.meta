@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: a60d23b4b19cf3b46aea506be38d43c7
+timeCreated: 1467980835
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ruben_battler_0
+    21300002: ruben_battler_1
+    21300004: ruben_battler_2
+    21300006: ruben_battler_3
+    21300008: ruben_battler_4
+    21300010: ruben_battler_5
+    21300012: ruben_battler_6
+    21300014: ruben_battler_7
+    21300016: ruben_battler_8
+    21300018: ruben_battler_9
+    21300020: ruben_battler_10
+    21300022: ruben_battler_11
+    21300024: ruben_battler_12
+    21300026: ruben_battler_13
+    21300028: ruben_battler_14
+    21300030: ruben_battler_15
+    21300032: ruben_battler_16
+    21300034: ruben_battler_17
+    21300036: ruben_battler_18
+    21300038: ruben_battler_19
+    21300040: ruben_battler_20
+    21300042: ruben_battler_21
+    21300044: ruben_battler_22
+    21300046: ruben_battler_23
+    21300048: ruben_battler_24
+    21300050: ruben_battler_25
+    21300052: ruben_battler_26
+    21300054: ruben_battler_27
+    21300056: ruben_battler_28
+    21300058: ruben_battler_29
+    21300060: ruben_battler_30
+    21300062: ruben_battler_31
+    21300064: ruben_battler_32
+    21300066: ruben_battler_33
+    21300068: ruben_battler_34
+    21300070: ruben_battler_35
+    21300072: ruben_battler_36
+    21300074: ruben_battler_37
+    21300076: ruben_battler_38
+    21300078: ruben_battler_39
+    21300080: ruben_battler_40
+    21300082: ruben_battler_41
+    21300084: ruben_battler_42
+    21300086: ruben_battler_43
+    21300088: ruben_battler_44
+    21300090: ruben_battler_45
+    21300092: ruben_battler_46
+    21300094: ruben_battler_47
+    21300096: ruben_battler_48
+    21300098: ruben_battler_49
+    21300100: ruben_battler_50
+    21300102: ruben_battler_51
+    21300104: ruben_battler_52
+    21300106: ruben_battler_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ruben_battler_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 320
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 22}
+        - {x: -15.5, y: -22}
+        - {x: 16.5, y: -22}
+        - {x: 16.5, y: 22}
+    - name: ruben_battler_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 320
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -5.5}
+        - {x: 23.5, y: 11.5}
+        - {x: 18.5, y: 25.5}
+        - {x: 15.5, y: 30.5}
+        - {x: -15.5, y: 30.5}
+        - {x: -23.5, y: 28.5}
+        - {x: -23.5, y: -15.5}
+        - {x: -21.5, y: -26.5}
+        - {x: -15.5, y: -30.5}
+        - {x: 20.5, y: -30.5}
+        - {x: 23.5, y: -26.5}
+        - {x: 23.5, y: -15.5}
+        - {x: 22.5, y: -14.5}
+    - name: ruben_battler_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 25}
+        - {x: 14, y: 30}
+        - {x: -16, y: 30}
+        - {x: -24, y: 22}
+        - {x: -24, y: -26}
+        - {x: -23, y: -29}
+        - {x: -19, y: -30}
+        - {x: 23, y: -30}
+        - {x: 24, y: -27}
+        - {x: 24, y: 10}
+    - name: ruben_battler_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 320
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 31}
+        - {x: -23, y: -31}
+        - {x: 23, y: -31}
+        - {x: 23, y: 24}
+        - {x: 17, y: 31}
+    - name: ruben_battler_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -30}
+        - {x: 26.5, y: -27}
+        - {x: 26.5, y: 15}
+        - {x: 18.5, y: 30}
+        - {x: -19.5, y: 30}
+        - {x: -26.5, y: 28}
+        - {x: -26.5, y: -25}
+        - {x: -23.5, y: -30}
+        - {x: 16.5, y: -30}
+        - {x: 16.5, y: -26}
+        - {x: 18.5, y: -30}
+    - name: ruben_battler_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -30}
+        - {x: 26.5, y: -27}
+        - {x: 26.5, y: 15}
+        - {x: 18.5, y: 30}
+        - {x: -19.5, y: 30}
+        - {x: -26.5, y: 28}
+        - {x: -26.5, y: -25}
+        - {x: -23.5, y: -30}
+        - {x: 16.5, y: -30}
+        - {x: 16.5, y: -26}
+        - {x: 18.5, y: -30}
+    - name: ruben_battler_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 320
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 31}
+        - {x: -24.5, y: -31}
+        - {x: 24.5, y: -31}
+        - {x: 24.5, y: 31}
+    - name: ruben_battler_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 320
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 31}
+        - {x: -24.5, y: -31}
+        - {x: 24.5, y: -31}
+        - {x: 24.5, y: 31}
+    - name: ruben_battler_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 320
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 31}
+        - {x: -24.5, y: -31}
+        - {x: 24.5, y: -31}
+        - {x: 24.5, y: 31}
+    - name: ruben_battler_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 256
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -22}
+        - {x: -20, y: -30}
+        - {x: 23, y: -30}
+        - {x: 23, y: 30}
+        - {x: -19, y: 30}
+        - {x: -23, y: 26}
+    - name: ruben_battler_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 256
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -22}
+        - {x: -20, y: -30}
+        - {x: 23, y: -30}
+        - {x: 23, y: 30}
+        - {x: -19, y: 30}
+        - {x: -23, y: 26}
+    - name: ruben_battler_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 256
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -22}
+        - {x: -20, y: -30}
+        - {x: 23, y: -30}
+        - {x: 23, y: 30}
+        - {x: -19, y: 30}
+        - {x: -23, y: 26}
+    - name: ruben_battler_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 256
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -14.5}
+        - {x: 23.5, y: -5.5}
+        - {x: 23.5, y: 11.5}
+        - {x: 18.5, y: 25.5}
+        - {x: 13.5, y: 30.5}
+        - {x: -17.5, y: 30.5}
+        - {x: -23.5, y: 29.5}
+        - {x: -23.5, y: -30.5}
+        - {x: 19.5, y: -30.5}
+        - {x: 23.5, y: -26.5}
+        - {x: 23.5, y: -15.5}
+    - name: ruben_battler_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 256
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 30}
+        - {x: -24.5, y: -29}
+        - {x: -23.5, y: -30}
+        - {x: 24.5, y: -30}
+        - {x: 24.5, y: 19}
+        - {x: 19.5, y: 30}
+    - name: ruben_battler_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 256
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 30}
+        - {x: -24.5, y: -29}
+        - {x: -23.5, y: -30}
+        - {x: 24.5, y: -30}
+        - {x: 24.5, y: 19}
+        - {x: 19.5, y: 30}
+    - name: ruben_battler_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 256
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 30.5}
+        - {x: -18.5, y: 29.5}
+        - {x: -23.5, y: 20.5}
+        - {x: -23.5, y: -21.5}
+        - {x: -21.5, y: -30.5}
+        - {x: 20.5, y: -30.5}
+        - {x: 23.5, y: -29.5}
+        - {x: 23.5, y: 23.5}
+        - {x: 21.5, y: 30.5}
+    - name: ruben_battler_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 257
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 30.5}
+        - {x: -24, y: 29.5}
+        - {x: -24, y: -30.5}
+        - {x: 24, y: -30.5}
+        - {x: 24, y: 17.5}
+        - {x: 16, y: 30.5}
+    - name: ruben_battler_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 258
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 30.5}
+        - {x: -24, y: 29.5}
+        - {x: -24, y: -30.5}
+        - {x: 24, y: -30.5}
+        - {x: 24, y: 17.5}
+        - {x: 16, y: 30.5}
+    - name: ruben_battler_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -31}
+        - {x: 23, y: -27}
+        - {x: 23, y: 22}
+        - {x: 21, y: 28}
+        - {x: 14, y: 31}
+        - {x: -23, y: 31}
+        - {x: -23, y: -31}
+        - {x: 12, y: -31}
+        - {x: 13, y: -30}
+        - {x: 13, y: -28}
+        - {x: 15, y: -31}
+    - name: ruben_battler_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -31}
+        - {x: 23, y: -27}
+        - {x: 23, y: 22}
+        - {x: 21, y: 28}
+        - {x: 14, y: 31}
+        - {x: -23, y: 31}
+        - {x: -23, y: -31}
+        - {x: 12, y: -31}
+        - {x: 13, y: -30}
+        - {x: 13, y: -28}
+        - {x: 15, y: -31}
+    - name: ruben_battler_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -31}
+        - {x: 23, y: -27}
+        - {x: 23, y: 22}
+        - {x: 21, y: 28}
+        - {x: 14, y: 31}
+        - {x: -23, y: 31}
+        - {x: -23, y: -31}
+        - {x: 12, y: -31}
+        - {x: 13, y: -30}
+        - {x: 13, y: -28}
+        - {x: 15, y: -31}
+    - name: ruben_battler_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 30.5}
+        - {x: -23.5, y: -30.5}
+        - {x: 23.5, y: -30.5}
+        - {x: 23.5, y: 30.5}
+    - name: ruben_battler_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 192
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30.5}
+        - {x: -23, y: 24.5}
+        - {x: -23, y: -25.5}
+        - {x: -17, y: -30.5}
+        - {x: 23, y: -30.5}
+        - {x: 23, y: 30.5}
+    - name: ruben_battler_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 192
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30.5}
+        - {x: -23, y: 24.5}
+        - {x: -23, y: -25.5}
+        - {x: -17, y: -30.5}
+        - {x: 23, y: -30.5}
+        - {x: 23, y: 30.5}
+    - name: ruben_battler_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -25, y: 25}
+        - {x: -25, y: -18}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -5}
+        - {x: 15, y: 29}
+    - name: ruben_battler_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 192
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -25, y: 25}
+        - {x: -25, y: -18}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -5}
+        - {x: 15, y: 29}
+    - name: ruben_battler_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 192
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -25, y: 25}
+        - {x: -25, y: -18}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -5}
+        - {x: 15, y: 29}
+    - name: ruben_battler_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 128
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 30}
+        - {x: -17, y: 30}
+        - {x: -18, y: 29}
+        - {x: -23, y: 21}
+        - {x: -23, y: -29}
+        - {x: -21, y: -30}
+        - {x: 23, y: -30}
+        - {x: 23, y: 29}
+    - name: ruben_battler_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 128
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 30}
+        - {x: -17, y: 30}
+        - {x: -18, y: 29}
+        - {x: -23, y: 21}
+        - {x: -23, y: -29}
+        - {x: -21, y: -30}
+        - {x: 23, y: -30}
+        - {x: 23, y: 29}
+    - name: ruben_battler_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 128
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 30}
+        - {x: -17, y: 30}
+        - {x: -18, y: 29}
+        - {x: -23, y: 21}
+        - {x: -23, y: -29}
+        - {x: -21, y: -30}
+        - {x: 23, y: -30}
+        - {x: 23, y: 29}
+    - name: ruben_battler_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 128
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 23}
+        - {x: 20, y: 30}
+        - {x: -16, y: 30}
+        - {x: -23, y: 24}
+        - {x: -23, y: -29}
+        - {x: -21, y: -30}
+        - {x: 23, y: -30}
+    - name: ruben_battler_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 31}
+        - {x: -24, y: 26}
+        - {x: -24, y: -31}
+        - {x: 24, y: -31}
+        - {x: 24, y: 31}
+    - name: ruben_battler_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 128
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 31}
+        - {x: -24, y: 26}
+        - {x: -24, y: -31}
+        - {x: 24, y: -31}
+        - {x: 24, y: 31}
+    - name: ruben_battler_33
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 128
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -25, y: 25}
+        - {x: -25, y: -18}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -5}
+        - {x: 15, y: 29}
+    - name: ruben_battler_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 128
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -25, y: 25}
+        - {x: -25, y: -18}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -5}
+        - {x: 15, y: 29}
+    - name: ruben_battler_35
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 128
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -25, y: 25}
+        - {x: -25, y: -18}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -5}
+        - {x: 15, y: 29}
+    - name: ruben_battler_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 29.5}
+        - {x: -24, y: -29.5}
+        - {x: 24, y: -29.5}
+        - {x: 24, y: 29.5}
+    - name: ruben_battler_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 64
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 29.5}
+        - {x: -24, y: -29.5}
+        - {x: 24, y: -29.5}
+        - {x: 24, y: 29.5}
+    - name: ruben_battler_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 64
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 29.5}
+        - {x: -24, y: -29.5}
+        - {x: 24, y: -29.5}
+        - {x: 24, y: 29.5}
+    - name: ruben_battler_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 64
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 31}
+        - {x: -23, y: -31}
+        - {x: 23, y: -31}
+        - {x: 23, y: 24}
+        - {x: 17, y: 31}
+    - name: ruben_battler_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 64
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 31}
+        - {x: -24, y: -29}
+        - {x: -22, y: -31}
+        - {x: 24, y: -31}
+        - {x: 24, y: 26}
+        - {x: 23, y: 30}
+        - {x: 18, y: 31}
+    - name: ruben_battler_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 64
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 31}
+        - {x: -24, y: -29}
+        - {x: -22, y: -31}
+        - {x: 24, y: -31}
+        - {x: 24, y: 26}
+        - {x: 23, y: 30}
+        - {x: 18, y: 31}
+    - name: ruben_battler_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 64
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -25, y: 25}
+        - {x: -25, y: -18}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -5}
+        - {x: 15, y: 29}
+    - name: ruben_battler_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 64
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -25, y: 25}
+        - {x: -25, y: -18}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -5}
+        - {x: 15, y: 29}
+    - name: ruben_battler_44
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 64
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -25, y: 25}
+        - {x: -25, y: -18}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -5}
+        - {x: 15, y: 29}
+    - name: ruben_battler_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 31}
+        - {x: -24.5, y: -27}
+        - {x: -12.5, y: -31}
+        - {x: 21.5, y: -31}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 31}
+    - name: ruben_battler_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 31}
+        - {x: -24.5, y: -27}
+        - {x: -12.5, y: -31}
+        - {x: 21.5, y: -31}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 31}
+    - name: ruben_battler_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 31}
+        - {x: -24.5, y: -27}
+        - {x: -12.5, y: -31}
+        - {x: 21.5, y: -31}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 31}
+    - name: ruben_battler_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 31}
+        - {x: -23.5, y: 28}
+        - {x: -23.5, y: -28}
+        - {x: -18.5, y: -31}
+        - {x: 21.5, y: -31}
+        - {x: 23.5, y: -29}
+        - {x: 23.5, y: 31}
+    - name: ruben_battler_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 31.5}
+        - {x: -24, y: 24.5}
+        - {x: -24, y: -31.5}
+        - {x: 18, y: -31.5}
+        - {x: 24, y: -27.5}
+        - {x: 24, y: 18.5}
+        - {x: 15, y: 31.5}
+    - name: ruben_battler_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 31.5}
+        - {x: -24, y: 24.5}
+        - {x: -24, y: -31.5}
+        - {x: 18, y: -31.5}
+        - {x: 24, y: -27.5}
+        - {x: 24, y: 18.5}
+        - {x: 15, y: 31.5}
+    - name: ruben_battler_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 19}
+        - {x: -30.5, y: -19}
+        - {x: 30.5, y: -19}
+        - {x: 30.5, y: -8}
+        - {x: 9.5, y: 19}
+    - name: ruben_battler_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 19}
+        - {x: -30.5, y: -19}
+        - {x: 30.5, y: -19}
+        - {x: 30.5, y: -8}
+        - {x: 9.5, y: 19}
+    - name: ruben_battler_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 19}
+        - {x: -30.5, y: -19}
+        - {x: 30.5, y: -19}
+        - {x: 30.5, y: -8}
+        - {x: 9.5, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
